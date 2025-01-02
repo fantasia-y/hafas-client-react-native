@@ -52,6 +52,7 @@
 	"dependencies": {
 		"@derhuerst/br2nl": "^1.0.0",
 		"@derhuerst/round-robin-scheduler": "^1.0.4",
+		"assert": "^2.1.0",
 		"content-type": "^1.0.4",
 		"create-hash": "^1.2.0",
 		"cross-fetch": "^4.0.0",

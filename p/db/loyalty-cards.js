@@ -1,4 +1,4 @@
-import {deepStrictEqual as eql} from 'node:assert';
+import {deepStrictEqual as eql} from 'assert';
 
 // todo: generate from https://reiseauskunft.bahn.de/addons/fachkonfig-utf8.cfg ?
 const c = {
